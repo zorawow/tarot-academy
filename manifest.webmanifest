@@ -1,0 +1,38 @@
+{
+  "name": "Tarot Academy · 塔罗学院",
+  "short_name": "塔罗学院",
+  "description": "循序渐进学习韦特塔罗的 78 张牌：牌库、系统课程、记忆训练、解牌实验室与学习日记。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "/tarot-academy/",
+  "scope": "/tarot-academy/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e1026",
+  "theme_color": "#0e1026",
+  "categories": [
+    "education",
+    "lifestyle",
+    "reference"
+  ],
+  "icons": [
+    {
+      "src": "/tarot-academy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tarot-academy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tarot-academy/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
